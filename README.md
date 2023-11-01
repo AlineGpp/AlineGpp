@@ -1,6 +1,6 @@
 ### Hello!! I'm Aline! 👋
-- 🌱 Estou estudando C++ 
-- 🌱 Estou estudando Java
+- 🌱 Estou estudando Javascript 
+- 🌱 Estou estudando React Js
 
 <div align = "center">
   <a href="https://github.com/AlineGpp">
